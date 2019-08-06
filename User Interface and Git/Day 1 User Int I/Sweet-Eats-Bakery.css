@@ -22,7 +22,7 @@ Stretch Task: Pick a navigation item and create a new page with the same header 
 /*======= Create a new universal selector that changes the font color to: #3C373B */
 
 * { 
-    font-color: #3C373B;
+    outline-color: #3C373B;
 }
 
 h1 {
